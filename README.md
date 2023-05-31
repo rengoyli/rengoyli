@@ -13,7 +13,7 @@
 <br>
 <br>
 
-![](https://leetcard.jacoblin.cool/rengoyli29?ext=heatmap)
+![Codewars](https://github.r2v.ch/codewars?user=rengoyli&stroke=%23BB432C)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rengoyli&show_icons=true&locale=en&theme=merko" alt="rengoyli" /></p>
 
